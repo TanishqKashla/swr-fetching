@@ -35,7 +35,7 @@ A modern Next.js (App Router) project demonstrating real-world usage of **SWR** 
    ```
 
    **Or view the project live on GitHub:**  
-   [https://github.com/TanishqKashla/swr-fetching](https://github.com/TanishqKashla/swr-fetching)
+   [https://swr-fetching.vercel.app/](https://swr-fetching.vercel.app/)
 
 2. **Install dependencies:**
    ```bash
