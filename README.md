@@ -34,6 +34,9 @@ A modern Next.js (App Router) project demonstrating real-world usage of **SWR** 
    cd swr-random-user-fetcher
    ```
 
+   **Or view the project live on GitHub:**  
+   [https://github.com/TanishqKashla/swr-fetching](https://github.com/TanishqKashla/swr-fetching)
+
 2. **Install dependencies:**
    ```bash
    npm install
@@ -79,28 +82,3 @@ A modern Next.js (App Router) project demonstrating real-world usage of **SWR** 
 - Calculating and displaying relative time
 - Component-based UI with reusable `UserCard`
 - Clean, responsive layout using Tailwind CSS
-
----
-
-## Next Steps / Improvements
-
-- Add pagination or infinite scroll with SWR
-- Enable filtering or searching users
-- Integrate authentication and protected API routes
-- Add unit and integration tests
-
----
-
-## License
-
-MIT © Your Name
-
----
-
-## Acknowledgements
-
-- [SWR](https://swr.vercel.app/)
-- [Random User API](https://randomuser.me/)
-- [Sonner Toast](https://github.com/sonner-toast/sonner)
-- [Tailwind CSS](https://tailwindcss.com/)
-- Inspired by [shadCN UI](https://ui.shadcn.com/)
